@@ -1,0 +1,11 @@
+div{
+    background-color: #772277;
+}
+
+table div{
+    background-color: initial;
+}
+
+#specialCase{
+    background-color: #444444;
+}
